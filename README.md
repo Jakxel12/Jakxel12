@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Jakxel12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Jakxel12
 
-<!---
-Jakxel12/Jakxel12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+I am seeking opportunities to work in a foreign and competitive environment that will facilitate the growth and development of my skills in software development and other areas of my professional career.
+
+## 🌱 Currently Learning
+### Code Languages:
+- HTML
+- CSS
+- JavaScript
+- Python
+- C#
+
+### Languages:
+- Japanese
+- French
+
+## 📫 How to Reach Me
+- **Instagram**: [_jakxel](https://instagram.com/_jakxel)
+- **X (formerly Twitter)**: [@Henqsu](https://twitter.com/Henqsu)
+- **TikTok**: [@imjakxel](https://tiktok.com/@imjakxel)
+- **GitHub**: [Jakxel12](https://github.com/Jakxel12)
