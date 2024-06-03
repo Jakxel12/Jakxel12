@@ -12,7 +12,7 @@ I am seeking opportunities to work in a foreign and competitive environment that
 - **Python**: 
 - **SQL**: 
 - **PHP**:
-- 
+  
 ### 🌎Languages
 
 - **Spanish**: Native.
@@ -21,7 +21,7 @@ I am seeking opportunities to work in a foreign and competitive environment that
 ### 🐉Highlighted Projects
 
 In progress
-Format:
+Stucture Format:
 - **[Project A](link_to_project)**: Brief description of the project, technologies used, and outcomes achieved.
 
 ## 📫 How to Reach Me
