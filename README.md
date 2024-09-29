@@ -32,6 +32,7 @@ Stucture Format:
 
 ## 🌱 Currently Learning
 ### Code Languages:
+- Swift
 - HTML
 - CSS
 - JavaScript
